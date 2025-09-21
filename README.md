@@ -132,7 +132,7 @@ Includes a secure **Admin Dashboard** for real-time content management.
    ```bash
    cd backend
    npm install
-   npm start
+   node server.js
    ```
 
 4. **Environment Variables**
@@ -160,5 +160,6 @@ Includes a secure **Admin Dashboard** for real-time content management.
 
 ---
 
-© 2025 Mahaweli Tours & Holidays | Built with ❤️ using React, Node.js, Express & MongoDB
+© 2025 NetLanka Tours | Built with ❤️ using React, Node.js, Express & MongoDB
+
 
