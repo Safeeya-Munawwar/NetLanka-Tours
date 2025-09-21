@@ -119,3 +119,46 @@ Includes a secure **Admin Dashboard** for real-time content management.
    ```bash
    git clone https://github.com/Safeeya-Munawwar/mahaweli-tours.git
    cd mahaweli-tours
+   ```
+
+2. **Frontend Setup**
+   ```bash
+   cd frontend
+   npm install
+   npm start
+   ```
+
+3. **Backend Setup**
+   ```bash
+   cd backend
+   npm install
+   npm start
+   ```
+
+4. **Environment Variables**
+   - Create .env in backend folder:
+     ```bash
+     MONGO_URI=your_mongodb_uri
+     EMAILJS_SERVICE_ID=your_service_id
+     EMAILJS_TEMPLATE_ID=your_template_id
+     EMAILJS_USER_ID=your_user_id
+     ```
+
+---
+
+## 🎯 Future Enhancements
+- 💳 Stripe/PayPal payment integration
+- 🌐 Multi-language support (Sinhala, Tamil, English)
+-  ⭐ User accounts with “Save Favorite Tours”
+  
+---
+
+## 👩‍💻 Author
+**Safeeya Munawwar**
+
+<p> <a href="https://www.linkedin.com/in/safeeya-munawwar" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Safeeya-Munawwar" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:shafiyasha0036@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://safeeya-munawwar-personal-portfolio.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white"/> </a> </p>
+
+---
+
+© 2025 Mahaweli Tours & Holidays | Built with ❤️ using React, Node.js, Express & MongoDB
+
