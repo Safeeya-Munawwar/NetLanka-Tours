@@ -109,7 +109,15 @@ Includes a secure **Admin Dashboard** for real-time content management.
 
 ## 📸 Screenshots
 
-![Demo Screenshot](/demo.PNG)
+### Homepage
+![Homepage](/demo.PNG)
+
+### Tours Page
+![Tours Page]/tours.PNG)
+
+### Tour Details
+![Tour Details](/tour-details.PNG)
+
 
 ---
 
@@ -161,6 +169,7 @@ Includes a secure **Admin Dashboard** for real-time content management.
 ---
 
 © 2025 NetLanka Tours | Built with ❤️ using React, Node.js, Express & MongoDB
+
 
 
 
