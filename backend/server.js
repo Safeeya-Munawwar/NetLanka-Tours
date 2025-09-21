@@ -3,8 +3,8 @@ import cors from "cors";
 import mongoose from "mongoose";
 import path from "path";
 import { fileURLToPath } from "url";
-import dotenv from "dotenv";
-dotenv.config();
+import dotenv from "dotenv"; // Load .env
+dotenv.config(); // Run config
 
 import commentsRouter from "./routes/comments.js";
 import homeContentRouter from "./routes/homeContent.js";
@@ -24,7 +24,7 @@ const PORT = process.env.PORT || 5000;
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Use the MONGO_URI from .env
+// ✅ Use the MONGO_URI from .env
 const MONGODB_URI = process.env.MONGO_URI;
 
 app.use(cors());
