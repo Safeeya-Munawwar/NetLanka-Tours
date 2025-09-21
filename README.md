@@ -6,6 +6,16 @@ Includes a secure **Admin Dashboard** for real-time content management.
 
 ---
 
+## 📸 Screenshots
+
+### Homepage
+![Homepage](/demo.PNG)
+
+### Tours Page
+![Tours Page](/tours.PNG)
+
+---
+
 ## 🌐 Live Demo  
 🔗 [View Project](https://your-live-demo-link.com)  
 
@@ -107,20 +117,6 @@ Includes a secure **Admin Dashboard** for real-time content management.
 
 ---
 
-## 📸 Screenshots
-
-### Homepage
-![Homepage](/demo.PNG)
-
-### Tours Page
-![Tours Page]/tours.PNG)
-
-### Tour Details
-![Tour Details](/tour-details.PNG)
-
-
----
-
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**
@@ -169,6 +165,7 @@ Includes a secure **Admin Dashboard** for real-time content management.
 ---
 
 © 2025 NetLanka Tours | Built with ❤️ using React, Node.js, Express & MongoDB
+
 
 
 
